@@ -4,4 +4,4 @@
 2. Bella Tri Febri
 3. Abel Liana
 4. Nurzakia Fhadila
-5. Ratri praudita Ningsih
+5. Ratri pramudita Ningsih
