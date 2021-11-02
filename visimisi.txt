@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>VisiMisi</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style type="text/css">
+    .centered {
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  transform: translate(-35%, -35%);
+}
+.content{
+  background-color: green;
+}
+  </style>
+</head>
+<body>
+	<header>
+		<img src="img/logo polkam.png" width="100px" class="rounded float-left">
+		<img src="img/tps.png" width="100px" class="rounded float-right">
+			<div class="head">
+				<center>
+					<p><strong><h1>Teknik Pengolahan Sawit<small></small></h1></strong></p>
+					<p><strong><h1>Politeknik Kampar<medium></medium></h1></strong></p>
+				</center>
+			  </div>
+        <!-----------------menu------------------------------------------------------------------------------------------->
+		<nav class="navbar navbar-expand-lg navbar-dark e4950d">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  	<div class="col card-header text-right"></div>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/HOME1.html" class="btn btn-success" style="color: black;"> HOME </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/profil.html" class="btn btn-success" style="color: black;"> PROFIL</a>
+      </li>
+      <li class="nav-item">
+      	 <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/profil.html" class="btn btn-success" style="color: black;"> GALERI</a>
+      </li>
+      <li class="nav-item">
+      	 <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/artikel.html" class="btn btn-success" style="color: black;"> ARTIKEL</a>
+      </li>
+      <li class="nav-item">
+      	 <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/visi%20misi.html" class="btn btn-success" style="color: black;"> VISI MISI </a>
+      </li>
+       <li class="nav-item">
+         <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/alumni.html" class="btn btn-success" style="color: black;"> ALUMNI </a>
+      </li>
+	</header>
+  <div class="content">
+   <div class="container">
+  <div class="row">
+    <div class="col-sm">
+     <h1 class="center"> VISI </h1>
+    </div>
+    <div class="col-sm">
+      <h1 class="center"> MISI </h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+    <P class=""> “TerwujudnyaProgram Studi Teknik Pengolahan Sawit yang Unggul, Inovatif dan Terkemuka Berbasis Teknologi Terapan pada Tahun 2032”</P>
+    </div>
+    <div class="col-sm">
+     <P class=""> 1. Menyelenggarakan Pendidikan vokasional di bidang Teknik Pengolahan Sawit untuk mencetak tenaga kerja yang berkulitas</P>
+     <P> 2. Mengembangkan teknologi terapan melalui penelitian untuk mendukung perkembangan industri, khususnya industri sawit </p>
+      <P> 3. Berperan aktif memecahkan permasalahan masyarakat melalui pengabdian kepada masyarakat. </P>
+       <p>4. Menjalin kolaborasi dengan dunia usaha dan industri untuk menghadapi persaingan global.</P>
+    </div>
+  </div>
+  </div>
+</div>
+  </div>
+	<div class="navbar navbar-expand-lg navbar-dark e4950d">
+	<footer class="container"><div class="collapse navbar-collapse" id="navbarSupportedContent">
+  	<div class="col card-header text-right"></div>
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> IG POLKAM 
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> IG TPS 
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> EMAIL POLKAM 
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> IG TPS 
+      </footer>
+    </div>
+	</div>
+	
+</body>
+</html>
