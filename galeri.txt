@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Galeri</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style type="text/css">
+    .centered {
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  transform: translate(-35%, -35%);
+}
+.content{
+  background-color: green;
+}
+.lingkaran1{
+  width: 300px;
+  height: 300px;
+  background: #90EE90;
+  border-radius: 100%;
+  align-items:center;
+}
+.wrapper {
+    display:flex;
+    align-items:center;
+    width:400px;
+    height:400px;
+    background:#eee;
+}
+  </style>
+</head>
+<body>
+	<header>
+		<img src="img/logo polkam.png" width="100px" class="rounded float-left">
+		<img src="img/tps.png" width="100px" class="rounded float-right">
+			<div class="head">
+				<center>
+					<p><strong><h1>Teknik Pengolahan Sawit<small></small></h1></strong></p>
+					<p><strong><h1>Politeknik Kampar<medium></medium></h1></strong></p>
+				</center>
+			  </div>
+        <!-----------------menu------------------------------------------------------------------------------------------->
+		<nav class="navbar navbar-expand-lg navbar-dark e4950d">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  	<div class="col card-header text-right"></div>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/HOME1.html" class="btn btn-success" style="color: black;"> HOME </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/profil.html" class="btn btn-success" style="color: black;"> PROFIL</a>
+      </li>
+      <li class="nav-item">
+      	 <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/galeri.html" class="btn btn-success" style="color: black;"> GALERI</a>
+      </li>
+      <li class="nav-item">
+      	 <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/artikel.html" class="btn btn-success" style="color: black;"> ARTIKEL</a>
+      </li>
+      <li class="nav-item">
+      	 <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/visi%20misi.html" class="btn btn-success" style="color: black;"> VISI MISI </a>
+      </li>
+       <li class="nav-item">
+         <a class="nav-link" href="file:///D:/ASSIGMENT/senmatik/alumni.html" class="btn btn-success" style="color: black;"> ALUMNI </a>
+      </li>
+	</header>
+  <div class="content">
+    <div class="container">
+  <div class="row">
+    <div class="col-sm">
+     <img src="sawit1.jpeg" class="img-thumbnail" width="200px">
+    </div>
+    <div class="col-sm">
+     <img src="galeri1.jpg" class="img-thumbnail" width="200px">
+    </div>
+    <div class="col-sm">
+     <img src="galeri 2.jpg" class="img-thumbnail" width="200px">
+    </div>
+     <div class="col-sm">
+     <img src="galeri 3.jpg" class="img-thumbnail" width="300px">
+    </div>
+    <div class="col-sm">
+     <img src="galeri 4.jpg" class="img-thumbnail" width="200px">
+    </div>
+    <div class="col-sm">
+     <img src="galeri5.jpg" class="img-thumbnail" width="200px">
+    </div>
+  </div>
+</div>
+  </div>
+	<div class="navbar navbar-expand-lg navbar-dark e4950d">
+	<footer class="container"><div class="collapse navbar-collapse" id="navbarSupportedContent">
+  	<div class="col card-header text-right"></div>
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> IG POLKAM 
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> IG TPS 
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> EMAIL POLKAM 
+      <a class="nav-link" href="#" class="btn btn-success" style="color: black;"> IG TPS 
+      </footer>
+    </div>
+	</div>
+	
+</body>
+</html>
